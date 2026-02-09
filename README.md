@@ -41,14 +41,14 @@ Existing ≥138kV lines scored for upgrade priority based on accessible generati
 
 | Dataset | Source |
 |---------|--------|
-| Power plants (operable, proposed, retired) | [EIA-860 2024](https://www.eia.gov/electricity/data/eia860/) |
-| Transmission lines (≥138kV) | [HIFLD](https://hifld-geoplatform.opendata.arcgis.com/) |
-| Data centers | [HIFLD](https://hifld-geoplatform.opendata.arcgis.com/) |
-| Protected areas (GAP 1–2) | [USGS PAD-US](https://www.usgs.gov/programs/gap-analysis-project/science/pad-us-data-overview) |
-| Military installations | [HIFLD](https://hifld-geoplatform.opendata.arcgis.com/) |
+| Power plants (operable, proposed, retired) | EIA-860 2024 |
+| Transmission lines (≥138kV) | HIFLD |
+| Data centers | HIFLD |
+| Protected areas (GAP 1–2) | USGS PAD-US |
+| Military installations | HIFLD |
 | Roads & Rail | State DOT / FRA |
-| Natural gas & hydrocarbon pipelines | [EIA](https://www.eia.gov/maps/layer_info-m.php) |
-| IREZ zones | [NREL](https://www.nrel.gov/gis/interconnection-ready-energy-zones.html) |
+| Natural gas & hydrocarbon pipelines | EIA |
+| IREZ zones | NREL |
 
 ## Pipeline
 
